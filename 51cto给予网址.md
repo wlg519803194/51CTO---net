@@ -28,3 +28,31 @@
 
 
 	http://server.51cto.com/sOS-583258.htm
+
+#### 周五 IT 资讯快车，欢迎品读： ####
+
+行业大事件：
+
+1.Facebook 开发的 HHVM 引擎宣布停止支持 PHP
+
+
+	http://news.51cto.com/art/201809/583385.htm
+ 
+2. 关于5G你该知道的事儿
+
+
+		http://network.51cto.com/art/201809/583376.htm
+ 
+	get新技能
+
+3. MySQL不为人知的主键与唯一索引约束
+
+
+		http://database.51cto.com/art/201809/583387.htm
+
+ 
+4. 3种方法保护遗留基础设施安全
+
+
+
+	http://zhuanlan.51cto.com/art/201809/583379.htm
