@@ -56,3 +56,23 @@
 
 
 	http://zhuanlan.51cto.com/art/201809/583379.htm
+
+
+
+#### 周四 IT 资讯快车，欢迎品读： ####
+	行业大事件：
+	1.  Google 放权，让 AMP 框架采用开放治理的模式
+	http://news.51cto.com/art/201809/583717.htm
+	 
+	2. 11岁姑娘挑战8分钟编程获蚂蚁金服CEO井贤栋赞赏
+	http://news.51cto.com/art/201809/583722.htm
+	 
+	3. 阿里云技术升级：发布飞天2.0操作系统可满足百亿级设备计算需求
+	http://news.51cto.com/art/201809/583724.htm
+	 
+	get新技能
+	4. 如何更改SSH服务器远程登陆设置
+	http://server.51cto.com/sOS-583725.htm
+	 
+	5. 巧用机器学习定位云服务器故障
+	http://server.51cto.com/sOS-583721.htm
