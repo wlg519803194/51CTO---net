@@ -76,3 +76,71 @@
 	 
 	5. 巧用机器学习定位云服务器故障
 	http://server.51cto.com/sOS-583721.htm
+
+#### 周二 IT 资讯快车，欢迎品读： ####
+		行业大事件：
+
+	1.  大多数数据泄露事故的罪魁祸首是人为失误，而不是黑客攻击
+		
+
+		http://zhuanlan.51cto.com/art/201809/584029.htm
+
+		 
+	2. 2018年最热门的深度学习框架？这份科学的排行榜可以告诉你
+
+
+		http://zhuanlan.51cto.com/art/201809/584030.htm
+		 
+	3. 下一代EDR应该叫做XDR
+
+
+		http://zhuanlan.51cto.com/art/201809/584033.htm
+
+
+	 
+	get新技能
+	4. 毕业3年，为何技术能力相差越来越大？
+
+
+		http://news.51cto.com/art/201809/584038.htm
+		 
+	5.  2.1 不要重复你自己：实现自定义组件
+
+
+		http://book.51cto.com/art/201809/584027.htm
+
+
+
+
+
+#### 周五 IT 资讯快车，欢迎品读： ####
+
+行业大事件：
+
+1.  有QQ输入法以后翻译不用求人
+
+
+	http://www.51cto.com/art/201809/584264.htm
+ 
+2.  你没听说过的Go语言惊人优点
+
+
+	http://developer.51cto.com/art/201809/584260.htm
+ 
+3.  漏洞管理的定义与最佳实践
+
+
+	http://zhuanlan.51cto.com/art/201809/584258.htm
+ 
+#### **get新技能** ####
+4.  Nginx反向代理实现Tomcat集群服务器的负载
+
+
+	http://server.51cto.com/sOS-584261.htm
+ 
+5.  拜托，面试别再问我TopK了！！！
+
+
+	http://zhuanlan.51cto.com/art/201809/584259.htm
+
+
