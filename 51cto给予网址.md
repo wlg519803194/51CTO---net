@@ -144,3 +144,32 @@
 	http://zhuanlan.51cto.com/art/201809/584259.htm
 
 
+
+#### 2018.10.8 ####
+周一 IT 资讯快车，欢迎品读：
+
+行业大事件：
+*1. 微软发布Windows版机器人操作系统 可管控更多日常机器人
+
+	http://news.51cto.com/art/201809/584392.htm
+ 
+*2.阿里高级技术专家：如何量化考核技术人的KPI？
+
+	http://news.51cto.com/art/201810/584531.htm
+ 
+*3.十年巨变 Android 1.0对比Android 9
+
+	http://news.51cto.com/art/201810/584493.htm
+ 
+get新技能
+
+*4. 关于Python包和模块的10个知识清单
+
+	http://news.51cto.com/art/201809/584283.htm
+ 
+*5. 推荐4个实用的微服务测试策略！
+
+	http://news.51cto.com/art/201809/583529.htm
+
+
+
