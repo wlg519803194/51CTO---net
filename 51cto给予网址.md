@@ -172,4 +172,40 @@ get新技能
 	http://news.51cto.com/art/201809/583529.htm
 
 
+#### 2018.10.10 ####
+
+周三IT 资讯快车，欢迎品读：
+
+行业大事件：
+	
+	1.退出了！谷歌放弃美国防部百亿美元合同竞标！
+	
+	http://ai.51cto.com/art/201810/584675.htm
+ 
+	2. 到底是Java好还是Python好？
+	
+	
+	http://zhuanlan.51cto.com/art/201810/584677.htm
+ 
+	3. 海底捞1000亿上市，未来后厨只需两位工程师
+	
+	
+	http://ai.51cto.com/art/201810/584667.htm
+ 
+
+get新技能
+
+
+	4. Linux VPS和服务器基本性能检查命令和工具
+	
+	
+	http://server.51cto.com/sOS-584685.htm
+	 
+	5. 亲历亚马逊、华为机器学习面试，原来考官想听到这些回答
+	
+	
+	http://ai.51cto.com/art/201810/584669.htm
+
+
+
 
