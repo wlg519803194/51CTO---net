@@ -206,6 +206,40 @@ get新技能
 	
 	http://ai.51cto.com/art/201810/584669.htm
 
+#### 2018.10.15 ####
+
+* 周一IT 资讯快车，欢迎品读：
+
+
+	行业大事件：
+
+	1.   工业互联网未来十大趋势
+
+
+	http://network.51cto.com/art/201810/584913.htm
+
+ 
+	2.   物联网黑客造成的经济损失有多少？
+
+
+	http://iot.51cto.com/art/201810/584917.htm
+ 
+	3. 开发人员中意的10个机器学习API！
+
+
+	http://ai.51cto.com/art/201810/584907.htm
+ 
+get新技能
+
+	4. 如何将Scikit-learn Python库用于数据科学项目
+
+
+	http://developer.51cto.com/art/201810/584928.htm
+ 
+	5. TCP三次握手原理，你到底知道多少？
+
+
+	http://network.51cto.com/art/201810/584921.htm
 
 
 
