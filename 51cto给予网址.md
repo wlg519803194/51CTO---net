@@ -242,4 +242,37 @@ get新技能
 	http://network.51cto.com/art/201810/584921.htm
 
 
+#### 2018.10.16 ####
+
+	周二IT 资讯快车，欢迎品读：
+
+	行业大事件：
+
+	1.   区块链的新机会？微软、IBM、英特尔们争相试水
+	2.   
+	http://blockchain.51cto.com/art/201810/585017.htm
+	 
+	2.   加密资本投资潮箱，创始合伙人Aurora Wong同时宣布将受邀出任其顾问
+
+
+	http://www.51cto.com/art/201810/585010.htm
+	 
+	3. 云计算报告：市场规模突破千亿，增量市场怎么找？
+
+
+	http://cloud.51cto.com/art/201810/585003.htm
+	 
+	get新技能
+
+	4. 数据库两大必备神器：索引和锁底层原理是什么！
+
+
+	http://database.51cto.com/art/201810/585002.htm
+	 
+	5. 如何在Linux下锁住键盘和鼠标而不锁屏
+
+
+	http://os.51cto.com/art/201810/585016.htm
+
+
 
