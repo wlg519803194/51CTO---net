@@ -275,4 +275,43 @@ get新技能
 	http://os.51cto.com/art/201810/585016.htm
 
 
+#### 2018.10.17 ####
+
+	
+	周三IT 资讯快车，欢迎品读：
+
+
+	行业大事件：
+
+	1.  脸书开源数据中心灾备工具，可自动化执行部署，缩短恢复时间
+
+
+	http://server.51cto.com/Datacenter-585100.htm
+
+
+	2. 物联网发展的8大趋势
+
+
+	http://iot.51cto.com/art/201810/585098.htm
+
+
+	 
+	3. 苹果新款Mac引入T2芯片 第三方修理彻底成为不可能
+
+
+	http://biz.51cto.com/art/201810/585066.htm
+
+	 
+	get新技能
+	4. 以Redis为例，详谈分布式系统缓存的细枝末节
+
+
+	http://stor.51cto.com/art/201810/585102.htm
+
+	 
+	5. 如何在救援（单用户模式）/紧急模式下启动Ubuntu 18.04/
+	
+	Debian 9服务器
+
+	http://os.51cto.com/art/201810/585081.htm
 
