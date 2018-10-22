@@ -315,3 +315,38 @@ get新技能
 
 	http://os.51cto.com/art/201810/585081.htm
 
+
+#### 2018.10.22 ####
+
+周一 IT 资讯快车，欢迎品读：
+
+
+行业大事件：
+
+1.Visual Studio 公布 2019 一季度路线图，有你期待的吗？ 
+
+
+	http://news.51cto.com/art/201810/585360.htm
+ 
+2.小米正式开源 SQL 智能优化与改写工具 SOAR
+
+	http://news.51cto.com/art/201810/585359.htm
+ 
+3. 官宣：欧盟已无条件批准微软 75 亿美元收购 GitHub
+
+
+	http://news.51cto.com/art/201810/585355.htm
+ 
+get新技能
+
+
+4. 如何在双系统引导下替换Linux发行版
+
+
+		http://os.51cto.com/art/201810/585378.htm
+ 
+5. iOS开发中的这些权限，你搞懂了吗？
+
+
+		http://mobile.51cto.com/hot-585350.htm
+
