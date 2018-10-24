@@ -350,3 +350,80 @@ get新技能
 
 		http://mobile.51cto.com/hot-585350.htm
 
+
+*2018.10.23*
+
+周二 IT 资讯快车，欢迎品读：
+
+行业大事件：
+
+*1. 百度、阿里、华为布局AI+交通，谁能执牛耳者？ *
+
+
+	http://www.cioage.com/art/201810/585436.htm
+
+ 
+*2. 使用了23年的Java不再免费！*
+
+
+	http://developer.51cto.com/art/201810/585457.htm
+ 
+*3. 10岁女程序员，婉拒谷歌Offer，研发首款AI桌游*
+
+	http://news.51cto.com/art/201810/585469.htm
+ 
+
+get新技能
+
+
+*4. 图解Chrome：HTML/CSS/JS是如何在浏览器中，渲染成你看到的页面*
+
+	http://zhuanlan.51cto.com/art/201810/585450.htm
+ 
+*5. 我就用Python写了个火车票查看器！室友就佩服的五体投地！超简单*
+
+
+	http://developer.51cto.com/art/201810/585447.htm
+
+
+
+
+#### 2018.10.24 ####
+
+周三 IT 资讯快车，欢迎品读：
+
+
+行业大事件：
+
+
+*1. 专科和本科程序员有什么区别呢？*
+
+
+	http://developer.51cto.com/art/201810/585470.htm
+
+ 
+*2. 美国区块链工程师平均年薪逾百万 比AI专家高 *
+
+
+	http://blockchain.51cto.com/art/201810/585523.htm
+ 
+
+
+*3. 国宝穿越记 看人工智能技术如何给文物“治未病”*
+
+
+	http://ai.51cto.com/art/201810/585522.htm
+ 
+get新技能
+
+
+*4. 不可错过的Rect面试题，务必收藏*
+
+
+	http://developer.51cto.com/art/201810/585481.htm
+ 
+*5. 高并发系统中锁策略，缓存策略等解决思路*
+
+
+	http://stor.51cto.com/art/201810/585489.htm
+
