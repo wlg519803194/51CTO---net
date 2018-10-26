@@ -427,3 +427,70 @@ get新技能
 
 	http://stor.51cto.com/art/201810/585489.htm
 
+
+#### 2018.10.25 ####
+
+周四 IT 资讯快车，欢迎品读：
+
+行业大事件：
+
+1. 我国管理区块链将出新规 草案要求实名制
+
+
+		http://blockchain.51cto.com/art/201810/585622.htm
+ 
+2. 网络钓鱼报告显示，微软、PayPal和Netflix是首要目标 
+
+
+		http://netsecurity.51cto.com/art/201810/585612.htm
+ 
+
+3. 2018SDWAN的江湖门派大盘点
+
+
+		http://www.51cto.com/art/201810/585613.htm
+ 
+get新技能
+
+4. 混合云环境中扩展Kubernetes的挑战及方案
+
+
+		http://cloud.51cto.com/art/201810/585649.htm
+ 
+5. 如何使用VPN保护IoT设备？
+
+
+		http://iot.51cto.com/art/201810/585650.htm
+
+
+#### 2018.10.26 ####
+
+周五 IT 资讯快车，欢迎品读：
+
+行业大事件：
+
+1. GrowingIO B轮融资3000万美元打造更懂用户和增长的行为分析产品
+
+
+		http://bigdata.51cto.com/art/201810/585715.htm
+ 
+2. 智能手机的“危险”太多，但这四点最为严重，不注意要吃大亏！
+
+
+		http://netsecurity.51cto.com/art/201810/585696.htm
+ 
+3. 谷歌、微软、亚马逊Kubernetes服务大比拼
+
+
+		http://cloud.51cto.com/art/201810/585684.htm
+ 
+get新技能
+
+4. 面试问烂的Spring AOP原理、SpringMVC过程
+
+		http://developer.51cto.com/art/201810/585720.htm
+ 
+5. iOS应用程序的脱壳实现原理浅析
+
+
+		http://mobile.51cto.com/hot-585703.htm
