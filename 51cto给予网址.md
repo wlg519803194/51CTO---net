@@ -494,3 +494,40 @@ get新技能
 
 
 		http://mobile.51cto.com/hot-585703.htm
+
+
+#### 2018.10.29 ####
+
+周一 IT 资讯快车，欢迎品读：
+
+行业大事件：
+
+1.  川大优秀毕业生在GitHub上建了一个项目，还未完结就获赞无数
+
+
+	http://developer.51cto.com/art/201810/585793.htm
+ 
+2. 飓风VS云计算，猜猜谁会赢？ 
+	
+	http://cloud.51cto.com/art/201810/585784.htm
+ 
+3.  微软开放6万项Linux专利背后，我们该注意什么？
+
+
+	http://os.51cto.com/art/201810/585780.htm
+ 
+
+get新技能
+
+
+4.  好好说说Java中的常量池之Class常量池
+
+
+	http://zhuanlan.51cto.com/art/201810/585787.htm
+ 
+
+5. 如何使用Apache Web服务器配置多个站点
+
+
+	http://os.51cto.com/art/201810/585752.htm
+
