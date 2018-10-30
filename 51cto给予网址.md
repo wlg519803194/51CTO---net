@@ -531,3 +531,42 @@ get新技能
 
 	http://os.51cto.com/art/201810/585752.htm
 
+
+#### 2018.10.30 ####
+
+周二 IT 资讯快车，欢迎品读：
+
+
+行业大事件：
+
+
+1. 马蜂窝深陷“造假门”，投资方集体沉默，谁的原罪？ 
+
+
+	http://news.51cto.com/art/201810/585866.htm
+ 
+2.“BAT们”的offer去哪儿了 
+
+
+	http://news.51cto.com/art/201810/585873.htm
+ 
+
+3.  完全修复：抱歉，您的PC名称无法在Windows 10上更改消息
+
+
+	http://os.51cto.com/art/201810/585839.htm
+ 
+
+get新技能
+
+
+4.  MySQL：缓存算什么东西？！
+
+
+	http://database.51cto.com/art/201810/585889.htm
+ 
+
+5.  如何列出在Linux上已启用/激活的仓库
+
+
+	http://os.51cto.com/art/201810/585836.htm
