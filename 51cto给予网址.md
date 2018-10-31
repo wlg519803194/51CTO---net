@@ -570,3 +570,43 @@ get新技能
 
 
 	http://os.51cto.com/art/201810/585836.htm
+
+
+#### 2018.10.31 ####
+
+
+周三 IT 资讯快车，欢迎品读：
+
+行业大事件：
+
+1.Bespin Global全面布局亚洲和美国 催生云管理服务的市场爆发
+
+
+	http://cloud.51cto.com/art/201810/585972.htm
+ 
+
+2.不满黑客新闻报道，亚马逊、苹果用自己的方式“惩罚”彭博 ..
+
+
+	http://netsecurity.51cto.com/art/201810/585943.htm
+ 
+
+3.区块链和人工智能，如何成为各自的“黄金搭档”？
+
+
+	http://os.51cto.com/art/201810/585839.htm
+ 
+
+get新技能
+
+
+4.LVM讲解，罗列磁盘故障小案例
+
+
+	http://stor.51cto.com/art/201810/585939.htm
+ 
+
+5. Linux系统真的很吃内存？
+
+
+	http://stor.51cto.com/art/201810/585930.htm
