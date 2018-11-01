@@ -610,3 +610,43 @@ get新技能
 
 
 	http://stor.51cto.com/art/201810/585930.htm
+
+
+#### 2018.11.1 ####
+
+
+周四 IT 资讯快车，欢迎品读：
+
+行业大事件：
+
+1.  马云2018年致股东信：没有历史性挑战 何来历史性机遇？
+
+
+	http://news.51cto.com/art/201810/586051.htm
+ 
+
+2.  全球芯片风起云涌中国应该这么干！
+
+
+	http://biz.51cto.com/art/201810/586043.htm
+ 
+
+3.  Splunk 助力Trek-Segafredo车队发挥数据价值
+
+	http://bigdata.51cto.com/art/201810/586047.htm
+ 
+
+get新技能
+
+
+4. 深入源码分析Java线程池的实现原理
+
+
+		http://zhuanlan.51cto.com/art/201810/586044.htm
+ 
+
+
+5. TCP协议疑难杂症全景解析
+
+
+		http://network.51cto.com/art/201810/586036.htm
