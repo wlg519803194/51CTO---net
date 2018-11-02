@@ -650,3 +650,43 @@ get新技能
 
 
 		http://network.51cto.com/art/201810/586036.htm
+
+
+#### 2018.11.2 ####
+
+周五 IT 资讯快车，欢迎品读：
+
+
+行业大事件：
+
+1.百度世界交出AI应用成绩单 落地国民经济三大产业
+
+
+	http://ai.51cto.com/art/201811/586125.htm
+ 
+
+2.美企高薪挖角，我国芯片专家出走，未来该如何留住人才？
+
+
+	http://server.51cto.com/CPU-586137.htm
+ 
+
+3.四个开源的Android邮件客户端
+
+
+	http://os.51cto.com/art/201811/586134.htm
+ 
+
+get新技能
+
+
+4. Dropbox设计师：如何让界面信息更加聚焦？
+
+
+		http://mobile.51cto.com/design-586119.htm
+ 
+
+5. 实现故障恢复自动化：详解Redis哨兵技术
+
+
+		http://database.51cto.com/art/201811/586105.htm
