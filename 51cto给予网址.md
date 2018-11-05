@@ -690,3 +690,45 @@ get新技能
 
 
 		http://database.51cto.com/art/201811/586105.htm
+
+
+#### 2018.11.5 ####
+
+周一 IT 资讯快车，欢迎品读：
+
+行业大事件：
+
+
+1.   Red Hat 杀死 KDE ！
+
+
+	http://news.51cto.com/art/201811/586189.htm
+ 
+
+2. WireGuard 项目暂未被合并到 Linux 内核主线
+
+
+		http://news.51cto.com/art/201811/586211.htm
+ 
+
+3. Google Play停止上架针对旧版安卓API设计的APP
+
+
+		http://mobile.51cto.com/anews-586188.htm
+ 
+
+
+get新技能
+
+
+
+4. 如何分析并探索Docker容器镜像的内容
+
+
+		http://os.51cto.com/art/201811/586215.htm
+	 
+
+5. 这可能是目前最透彻的Netty原理架构解析
+
+
+		http://developer.51cto.com/art/201811/586203.htm
