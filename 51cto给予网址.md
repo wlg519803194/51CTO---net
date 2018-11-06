@@ -732,3 +732,49 @@ get新技能
 
 
 		http://developer.51cto.com/art/201811/586203.htm
+
+
+#### 2018.11.06 ####
+
+
+周二 IT 资讯快车，欢迎品读：
+
+
+行业大事件：
+
+
+1.外媒分析历代苹果手机价格 iPhone X正是价格起跳点
+
+
+	http://mobile.51cto.com/news-586272.htm
+ 
+
+2. IBM收购Red Hat带来了Java应用服务器困境
+
+
+		http://server.51cto.com/sOS-586285.htm
+ 
+
+
+3. 红帽企业Linux 7.6面世，进一步优化混合云创新
+
+
+		http://cloud.51cto.com/art/201811/586266.htm
+ 
+
+
+get新技能
+
+
+4.如何分析并探索Docker容器镜像的内容阿里蚂蚁的机器学习算法-一 、
+
+二、三面面经，干货速收！
+
+
+	http://ai.51cto.com/art/201811/586286.htm
+ 
+
+5.每秒超一百万次请求，Netflix如何做负载均衡?
+
+
+	http://os.51cto.com/art/201811/586289.htm
