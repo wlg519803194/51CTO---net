@@ -778,3 +778,499 @@ get新技能
 
 
 	http://os.51cto.com/art/201811/586289.htm
+
+
+#### 2018.11.07 ####
+
+
+周三 IT 资讯快车，欢迎品读：
+
+
+行业大事件：
+
+
+1.   自然语言处理(nlp)比计算机视觉(cv)发展缓慢，而且更难！
+
+
+		http://ai.51cto.com/art/201811/586369.htm
+ 
+2.   从内部孵化到对外上云：腾讯TAPD的十二年路
+
+
+
+		http://cloud.51cto.com/art/201811/586349.htm
+ 
+3.   阿里云加码边缘计算，全面布局5G MEC
+
+
+		http://cloud.51cto.com/art/201811/586348.htm
+ 
+	get新技能
+
+
+4. jQuery都过时了，那还学它干嘛
+
+
+		http://developer.51cto.com/art/201811/586354.htm
+ 
+5. 互联网架构，究竟为啥要做服务化？
+
+
+		http://zhuanlan.51cto.com/art/201811/586363.htm
+
+
+#### 2018.11.08 ####
+
+周四 IT 资讯快车，欢迎品读：
+
+
+行业大事件：
+
+
+1.观点，亚州地区的5大云应用误解
+
+
+	http://cloud.51cto.com/art/201811/586424.htm
+
+2.2019年13个值得关注的Linux和开源会议
+
+	http://os.51cto.com/art/201811/586401.htm
+
+
+3. 99click教你备战双11，“必胜”攻略Pick一下！
+
+		http://www.51cto.com/art/201811/586408.htm
+ 
+	get新技能
+
+
+4.突破关系型数据库桎梏：云原生数据库中间件核心剖析
+
+
+	http://database.51cto.com/art/201811/586416.htm
+
+
+5.浅析Go-To-Market
+
+
+	http://zhuanlan.51cto.com/art/201811/586414.htm
+
+
+#### 2018.11.09 ####
+
+周五 IT 资讯快车，欢迎品读：
+
+
+行业大事件：
+
+
+1.   看看网络犯罪分子是如何攻击使用免费Wi-Fi用户的
+
+
+	http://network.51cto.com/art/201811/586482.htm
+
+2.   Gartner发布物联网技术十大战略和趋势
+
+	http://iot.51cto.com/art/201811/586477.htm
+
+
+3.   苹果万亿市值恐成“绝唱”
+
+
+	http://news.51cto.com/art/201811/586464.htm
+ 
+
+ 	get新技能
+
+
+4. 前端开发如何包装可重用的JavaScript代码
+
+
+		http://developer.51cto.com/art/201811/586484.htm
+
+5. 同样是用Excel，为什么别人那么优秀？
+
+
+		http://bigdata.51cto.com/art/201811/586470.htm
+
+
+#### 2018.11.12 ####
+
+
+周一 IT 资讯快车，欢迎品读：
+
+
+行业大事件：
+
+
+1.  马化腾对话李彦宏，信息量很足
+
+	http://news.51cto.com/art/201811/586733.htm
+ 
+
+2.  谷歌终于要改进Android分享菜单了：将更快更好用
+
+
+	http://news.51cto.com/art/201811/586749.htm
+ 
+
+
+3.  紧跟这6个 UI 背景设计趋势，能让你的界面更出彩
+
+
+	http://mobile.51cto.com/design-586732.htm
+ 
+
+ get新技能
+
+
+4.  黄牛党与程序猿的双11攻防战
+
+
+	http://news.51cto.com/art/201811/586750.htm
+ 
+
+
+5. 万并发下的Nginx优化，看这一篇就够了！
+	
+		http://developer.51cto.com/art/201811/586741.htm
+
+
+
+#### 2018.11.13 ####
+
+
+周二 IT 资讯快车，欢迎品读：
+
+
+
+行业大事件：
+
+1.  工信部再次发声：6G 概念研究今年正式启动
+
+
+	http://news.51cto.com/art/201811/586827.htm
+
+2.  GDPR给安全带来的七大不利影响
+
+	http://zhuanlan.51cto.com/art/201811/586784.htm
+
+
+3.  IT人老矣，尚能饭否？
+
+	http://news.51cto.com/art/201811/586742.htm
+ 
+
+get新技能
+
+
+4.  如何弄清Linux系统运行何种系统管理程序
+
+
+	http://os.51cto.com/art/201811/586830.htm
+ 
+
+5. AutoML、AutoKeras......这四个「Auto」的自动机器学习方法你分得清吗？
+
+
+		http://zhuanlan.51cto.com/art/201811/586790.htm
+
+
+#### 2018.11.14 ####
+
+周三 IT 资讯快车，欢迎品读：
+
+
+
+行业大事件：
+
+
+1.  物联网行业究竟是昙花一现还是工业史上的重要里程碑？
+
+
+	http://iot.51cto.com/art/201811/586888.htm
+ 
+
+2.  11月全球数据库排行榜：Oracle、MySQL均大幅度下滑，PostgreSQL走势凶猛
+
+
+	http://database.51cto.com/art/201811/586861.htm
+ 
+
+3.  不剁手也吃土？可能是挖矿木马掏空你的钱包
+
+
+	http://netsecurity.51cto.com/art/201811/586854.htm
+ 
+
+get新技能
+
+
+4.  仅需六步，从零实现机器学习算法！
+
+
+	http://zhuanlan.51cto.com/art/201811/586882.htm
+ 
+
+5.  如何设计好消费向App产品
+
+
+	http://mobile.51cto.com/design-586862.htm
+
+#### 2018.11.15 ####
+
+周四 IT 资讯快车，欢迎品读：
+
+
+
+行业大事件：
+
+
+1.Kubernetes监控方面要避免的四个常见陷阱
+
+
+	http://developer.51cto.com/art/201811/586945.htm
+ 
+
+2.预测！未来五年，北美将依旧占据大数据领域主导地位！
+
+
+	http://bigdata.51cto.com/art/201811/586925.htm
+ 
+
+
+3.破解AI科研与人才难题，英特尔宣布“AI未来先锋计划”
+
+
+	http://server.51cto.com/News-586944.htm
+ 
+
+get新技能
+
+
+4.运维不迷茫:给1到10年运维人的“修仙”指南
+
+
+	http://developer.51cto.com/art/201811/586952.htm
+ 
+
+5.如何构建一个低成本，高可用，少运维的ES平台？
+
+
+	http://developer.51cto.com/art/201811/586913.htm
+
+
+#### 2018.11.16 ####
+
+
+周五 IT 资讯快车，欢迎品读：
+
+
+
+行业大事件：
+
+
+1. 完全修复：Windows 10的WiFi连接每隔几秒就会丢失一次
+
+
+		http://os.51cto.com/art/201811/587024.htm
+
+
+2. 谷歌网络服务宕机，中国电信背锅
+
+
+		http://netsecurity.51cto.com/art/201811/587016.htm
+
+3. 人工智能识别助力助物流公司从容面对双十一订单！
+
+
+		http://ai.51cto.com/art/201811/587011.htm
+ 
+
+get新技能
+
+
+4. 破界！Omi生态omi-mp发布，用小程序开发生成Web
+
+
+		http://news.51cto.com/art/201811/586950.htm
+
+
+5. 运维中交换机的常见问题及如何处理
+
+
+		http://network.51cto.com/art/201811/586949.htm
+
+
+#### 2018.11.19 ####
+
+
+周一 IT 资讯快车，欢迎品读：
+
+
+
+
+行业大事件：
+
+
+1.  英媒：中国数据存储中心过剩了吗
+
+
+	http://stor.51cto.com/art/201811/587117.htm
+
+
+2.  对抗链接税，Google或将关闭整个欧盟的谷歌新闻
+
+
+	http://news.51cto.com/art/201811/587120.htm
+
+
+3.  PYPL 11 月 IDE 榜单：Eclipse 逼近 Visual Studio
+
+
+	http://news.51cto.com/art/201811/587110.htm
+ 
+
+get新技能
+
+
+4. 用大白话告诉你小白都能看懂的Hadoop架构原理
+
+
+		http://developer.51cto.com/art/201811/587098.htm
+
+
+5. 讨论 | 接手到垃圾代码，你要不要辞职？
+
+
+
+		http://news.51cto.com/art/201811/587101.htm
+
+
+
+#### 2018.11.20 ####
+
+
+周二 IT 资讯快车，欢迎品读：
+
+
+
+行业大事件：
+
+
+1.Hadoop架构已凋谢吗 ？
+
+
+	http://bigdata.51cto.com/art/201811/587186.htm
+
+2. 手机/电视都已用 OLED显示器为何至今无解
+
+
+		http://biz.51cto.com/art/201811/587189.htm
+
+
+3. 谁干的？暗网最大网络托管商被黑，6500个网站遭彻底删除
+
+
+		http://netsecurity.51cto.com/art/201811/587192.htm
+ 
+
+get新技能
+
+
+4. 分布式存储系统的雪崩效应
+
+
+		http://stor.51cto.com/art/201811/587213.htm
+
+
+5. 企业区块链可能被黑的5个途径
+
+
+		http://blockchain.51cto.com/art/201811/587178.htm
+
+
+
+#### 2018.11.21 ####
+
+周三 IT 资讯快车，欢迎品读：
+
+行业大事件：
+
+
+1. 谷歌云和AWS再开战：硝烟弥漫皆因一个数据盒子！
+
+		http://news.51cto.com/art/201811/587259.htm
+
+
+2. 国内智能手机现状：三星魅族生存困难 隐形贫困人口最爱用苹果
+
+		http://mobile.51cto.com/news-587236.htm
+
+
+3. 完全修复：任务管理器无法在Windows 10上运行
+
+
+		http://os.51cto.com/art/201811/587260.htm
+ 
+
+get新技能
+
+
+4. 暴力法求解“微信群覆盖”？
+
+		http://zhuanlan.51cto.com/art/201811/587257.htm
+
+
+5. 从大神的角度深入理解MySQL，值得收藏~
+
+
+
+		http://database.51cto.com/art/201811/587255.htm
+
+
+
+
+#### 2018.11.22 ####
+
+
+周四 IT 资讯快车，欢迎品读：
+
+
+
+
+行业大事件：
+
+
+1. AMD、英特尔为何争相走向胶水多核处理器？真相在此
+
+
+		http://biz.51cto.com/art/201811/587344.htm
+
+
+2. Python数据可视化：2018年电影分析
+
+
+		http://bigdata.51cto.com/art/201811/587321.htm
+
+
+3. 2018年10月GitHub上最热门的JavaScript开源项目
+
+
+		http://developer.51cto.com/art/201811/587329.htm
+ 
+
+get新技能
+
+
+4. 手把手教你设计一个百万级的消息推送系统
+
+
+		http://developer.51cto.com/art/201811/587361.htm
+
+
+5. 漫画：HTTP协议极简教程，傻瓜都能看懂！
+
+
+
+		http://developer.51cto.com/art/201811/587343.htm
