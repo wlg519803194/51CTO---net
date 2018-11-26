@@ -1274,3 +1274,95 @@ get新技能
 
 
 		http://developer.51cto.com/art/201811/587343.htm
+
+
+
+
+#### 2018.11.23 ####
+
+
+
+周五 IT 资讯快车，欢迎品读：
+
+
+行业大事件：
+
+
+1.  中国电信为谷歌背锅？揭秘本月几桩离奇宕机事故
+
+
+	http://server.51cto.com/sSecurity-587420.htm
+
+
+2.  填坑利器？Redis如何弥补传统MySQL架构的不足
+
+
+	http://database.51cto.com/art/201811/587410.htm
+
+
+
+3. 运营商新推阶梯式套餐，不还是“那碗汤”吗？
+
+
+		http://network.51cto.com/art/201811/587415.htm
+ 
+
+get新技能
+
+
+
+4.  终于有人把“TCC分布式事务”实现原理讲明白了！
+
+
+
+		http://developer.51cto.com/art/201811/587425.htm
+
+
+5. 忘了Python关键语句？这份备忘录拯救你的记忆
+
+	http://news.51cto.com/art/201811/587396.htm
+
+
+
+
+#### 2018.11.26 ####
+
+
+周一 IT 资讯快车，欢迎品读：
+
+
+
+行业大事件：
+
+
+1.  压力太大？“黑五”期间谷歌、Facebook广告平台宕机
+
+
+	http://news.51cto.com/art/201811/587538.htm
+
+
+2.  完美代替XP的操作系统发布了 能装exe关键还开源
+
+	http://news.51cto.com/art/201811/587532.htm
+
+
+3. 最易懂的AI芯片报告！人才技术趋势都在这里
+
+
+
+		http://news.51cto.com/art/201811/587531.htm
+ 
+
+get新技能
+
+
+4.  写Python时的5个坏习惯，你有几条？
+
+
+	http://developer.51cto.com/art/201811/587560.htm
+
+
+5. 线上Linux服务器运维安全策略经验分享
+
+
+		http://server.51cto.com/ManageDC-587550.htm
