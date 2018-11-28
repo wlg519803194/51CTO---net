@@ -1366,3 +1366,94 @@ get新技能
 
 
 		http://server.51cto.com/ManageDC-587550.htm
+
+
+
+
+#### 2018.11.27 ####
+
+周二 IT 资讯快车，欢迎品读：
+
+
+行业大事件：
+
+1.苹果重启iPhone X的生产，或许不是一个好主意
+
+
+	http://mobile.51cto.com/news-587634.htm
+
+
+2. 学霸搞黑产惊动教育圈，涉案金额高达6个亿
+
+
+		http://netsecurity.51cto.com/art/201811/587621.htm
+
+
+3. 2019年9大AI趋势，你准备好了吗？
+
+
+		http://news.51cto.com/art/201811/587617.htm
+ 
+
+get新技能
+
+
+4.我们如何得知安装的包来自哪个仓库？
+
+
+
+	http://os.51cto.com/art/201811/587633.htm
+
+
+5. OpenStack与ZStack深度对比：架构、部署、计算存储与网络、运维监控等
+
+
+		http://stor.51cto.com/art/201811/587629.htm
+
+
+#### 2018.11.28 ####
+
+周三 IT 资讯快车，欢迎品读：
+
+
+
+
+行业大事件：
+
+
+1. UCloud伦敦节点上线 抢占全球金融中心云服务制高点
+
+
+		http://cloud.51cto.com/art/201810/587786.htm
+
+
+2. 2018年全球AI十大突破性技术一览你知道几个？
+
+
+		http://news.51cto.com/art/201811/587767.htm
+
+
+3. 全球最大安卓第三方系统LineageOS宣布：放弃对30个机型的维护
+
+
+		http://news.51cto.com/art/201811/587764.htm
+
+ 
+
+
+get新技能
+
+
+
+4. TCP没那么难吧？一文带你详细了解
+
+
+
+		http://network.51cto.com/art/201811/587759.htm
+
+
+5. 如何比较VMware NSX-V与NSX-T
+
+
+
+		http://virtual.51cto.com/art/201811/587761.htm
