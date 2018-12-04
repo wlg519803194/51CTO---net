@@ -1507,6 +1507,80 @@ get新技能
 	http://stor.51cto.com/art/201811/587820.htm
 
 
+#### 2018.12.03 ####
+
+周一 IT 资讯快车，欢迎品读：
+
+
+
+行业大事件：
+
+
+1.  如果我们无法访问“设置”菜单，如何重新启动Windows 10计算机
+
+
+	http://os.51cto.com/art/201812/588031.htm
+
+2.  12月数据库榜单，整体排名稳定如昨，Oracle 分数接连下降
+
+
+	http://news.51cto.com/art/201812/588018.htm
+
+
+3.  为让Linux代码注释更加和谐 有人提议用“拥抱”替换F**k
+
+
+	http://news.51cto.com/art/201812/588024.htm
+ 
+
+get新技能
+
+
+4.“反向代理层”绝不能替代“DNS轮询”！ - 51CTO.COM
+
+
+	http://zhuanlan.51cto.com/art/201812/588022.htm
+
+5.从插件入手：挖掘WordPress站点的“后入式BUG”
+
+
+	http://netsecurity.51cto.com/art/201812/588012.htm
+
+
+#### 2018.12.04 ####
+
+
+周二 IT 资讯快车，欢迎品读：
+
+
+
+
+行业大事件：
+
+
+1.  求职寒冬互联网公司连月薪8万的架构师也“外包”了
+
+
+	http://news.51cto.com/art/201812/588113.htm
+
+2.  10年前吹过的牛逼，5G能实现吗？
+
+	http://network.51cto.com/art/201812/588107.htm
+
+3.  容灾演练存在五种隐患，应如何发现和消除风险
+
+	http://server.51cto.com/DisasterRecovery-588115.htm
+ 
+
+get新技能
+
+4.  如何用PerfSONAR测试你的网络?
+
+	http://network.51cto.com/art/201812/588099.htm
+
+5. 如何在Linux中为每个屏幕设置不同的壁纸
+
+		http://os.51cto.com/art/201812/588088.htm
 
 
 
