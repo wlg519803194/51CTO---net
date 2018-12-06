@@ -1583,4 +1583,82 @@ get新技能
 		http://os.51cto.com/art/201812/588088.htm
 
 
+#### 2018.12.05 ####
 
+周三 IT 资讯快车，欢迎品读：
+
+
+行业大事件：
+
+1.海外版“知乎”Quora 遭黑客入侵，近一亿用户信息泄露
+
+	http://netsecurity.51cto.com/art/201812/588148.htm
+
+
+2.解读App Store审核黑箱政策 —— 远没有你想象的那么邪恶
+
+
+	http://mobile.51cto.com/hot-588144.htm
+
+
+3.万豪数据泄漏门再敲警钟，酒店集团7步安全建议
+
+
+	http://netsecurity.51cto.com/art/201812/588147.htm
+ 
+
+get新技能
+
+
+4.老网工： SD-WAN 技术架构的发展和演进
+
+
+	http://network.51cto.com/art/201812/588190.htm
+
+
+
+5. 如何正确使用Redis Streams？
+
+
+		http://database.51cto.com/art/201812/588189.htm
+
+
+#### 2018.12.06 ####
+
+周四 IT 资讯快车，欢迎品读：
+
+
+行业大事件：
+
+
+1.  停车难得要命，智慧停车走的是阳关道OR独木桥？
+
+
+	http://www.cioage.com/art/201812/588246.htm
+
+
+2.  小心被你敲键盘的声音出卖
+
+
+	http://netsecurity.51cto.com/art/201812/588237.htm
+
+
+3. 苹果选出了2018年最好的6个App，你玩过几个？
+
+
+		http://mobile.51cto.com/news-588241.htm
+ 
+
+get新技能
+
+
+4. 商品标题这么长长长长长，阿里工程师如何解决？
+
+
+		http://zhuanlan.51cto.com/art/201812/588252.htm
+
+
+5. MySQL分布式架构扩缩容的初步设计
+
+
+		http://database.51cto.com/art/201812/588219.htm
