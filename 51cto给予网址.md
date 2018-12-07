@@ -1662,3 +1662,45 @@ get新技能
 
 
 		http://database.51cto.com/art/201812/588219.htm
+
+#### 2018.12.07 ####
+
+周五 IT 资讯快车，欢迎品读：
+
+
+
+
+行业大事件：
+
+
+1.加速推进下一代互联网，阿里巴巴宣布实现IPv6大规模应用：http://
+
+	cloud.51cto.com/art/201812/588318.htm
+
+
+2.iOS 12.1.1 正式发布：要不要试试新功能？
+
+
+	http://mobile.51cto.com/iphone-588309.htm
+
+
+3. 5G网络或“杀死”WiFi，国产手机率先布局
+
+
+		http://network.51cto.com/art/201812/588299.htm
+ 
+
+get新技能
+
+
+4. 记一次生产数据库"意外"重启的经历
+
+
+		http://database.51cto.com/art/201812/588317.htm
+
+
+5. 如何通过Ansible来管理上千台服务器？？
+
+
+		http://server.51cto.com/sOS-588272.htm
+
